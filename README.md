@@ -2,10 +2,6 @@
 
 Projeto desenvolvido durante meus estudos na plataforma **DIO (Digital Innovation One)**, com foco em fundamentos de lógica de programação utilizando JavaScript.
 
-<p align="left">
-  <img src="assets/Motoca.svg" width="100" />
-</p>
-
 ## ▶️ Sobre o projeto
 Este projeto tem como objetivo classificar o nível de um personagem com base na quantidade de experiência (XP).
 
@@ -23,3 +19,7 @@ Basta abrir o arquivo `index.js` em um ambiente JavaScript (como Node.js ou o co
 
 ## 📌 Observações
 Projeto com finalidade educacional, desenvolvido para praticar lógica de programação e tomada de decisão em JavaScript.
+
+<p align="center">
+  <img src="assets/Motoca.svg" width="130" />
+</p>
