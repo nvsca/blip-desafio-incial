@@ -21,5 +21,5 @@ Basta abrir o arquivo `index.js` em um ambiente JavaScript (como Node.js ou o co
 Projeto com finalidade educacional, desenvolvido para praticar lógica de programação e tomada de decisão em JavaScript.
 
 <p align="center">
-  <img src="assets/Motoca.svg" width="130" />
+  <img src="assets/Motoca.svg" width="180" />
 </p>
